@@ -1,15 +1,51 @@
-<h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">An enthusiast Back-end focused developer from Brazil.</h3>
+<h1 align="center">Hi 👋, I'm David Caldas</h1>
 
-- 🌱 I’m currently learning **Java Spring , VueJs and Rust**
+<h3 align="center">Software Developer | Data-Driven Development | Computer Science Student</h3>
 
-- 📫 How to reach me **contato.sphax@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/caldasdv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caldasdv" height="30" width="40" /></a>
+<p align="center">
+Computer Science undergraduate at IFB with experience in software development, data-driven applications, and computer vision. Interested in building robust backend systems, data pipelines, and scalable software solutions.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+* 💻 Focused on **Back-end Development and Data Engineering**
+* 🎓 Computer Science undergraduate at **IFB**
+* 📊 Experience with **Data Analysis, ETL and Data Visualization**
+* 👁️ Experience with **Computer Vision and Image Processing**
+* ☕ Currently improving my skills in **Java, Spring Boot and Software Architecture**
+* 🐍 Building data solutions with **Python, Pandas and NumPy**
+* 🗄️ Working with **SQL and PostgreSQL**
+* 🌱 Exploring **Rust, Cloud and scalable systems**
+* 📫 Reach me at **[contato.sphax@gmail.com](mailto:contato.sphax@gmail.com)**
 
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://linkedin.com/in/caldasdv" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+</a>
+</p>
+
+<h3 align="left">Languages:</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,rust" />
+</p>
+
+<h3 align="left">Back-end & Web:</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,nextjs,react" />
+</p>
+
+<h3 align="left">Data & Databases:</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
+</p>
+
+<h3 align="left">Tools & Environment:</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
+</p>
